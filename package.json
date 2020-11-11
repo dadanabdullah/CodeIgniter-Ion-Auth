@@ -1,0 +1,14 @@
+{
+  "name": "CodeIgniter Ion Auth",
+  "version": "1.0.0",
+  "description": "Simple and Lightweight Auth System for CodeIgniter",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dadan Abdullah",
+  "license": "MIT",
+  "dependencies": {
+    "admin-lte": "^2.4.18"
+  }
+}
